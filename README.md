@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Ashish Ricky 2023, created as a practice react product 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
